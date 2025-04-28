@@ -394,6 +394,7 @@
 			children = (
 				E9F158C8C566B26AFD775911 /* Supporting Files */,
 				2647844720BC6574A544A337 /* Charts */,
+				DDCF206E2DBF41510088C7D6 /* PrivacyInfo.xcprivacy */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -475,7 +476,6 @@
 		2647844720BC6574A544A337 /* Charts */ = {
 			isa = PBXGroup;
 			children = (
-				DDCF206E2DBF41510088C7D6 /* PrivacyInfo.xcprivacy */,
 				A49C1F0F9CCD6E5C143C29F4 /* Animation */,
 				8C531E3F3C3DE5843C93C3DA /* Charts */,
 				51EF1986C9884C25EED1C2CB /* Components */,
